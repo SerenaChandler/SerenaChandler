@@ -7,12 +7,11 @@
 - you can contact me at: serenachandler2019@gmail.com 
 
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerenaChandler&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 
