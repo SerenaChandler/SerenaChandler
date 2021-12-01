@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerenaChandler&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Serena's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerenaChandler&theme=tokyonight&hide=contribs,prs)
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
