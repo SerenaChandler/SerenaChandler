@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, My name is Serena, Nice to meet you!
+
+<br>
+
+### I'm a full stack web developer proficient in Javascript, HTML, CSS, and various other technologies
+- you can contact me at: serenachandler2019@gmail.com 
 
 <!--
 **SerenaChandler/SerenaChandler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
