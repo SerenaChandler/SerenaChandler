@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Serena, Nice to meet you!
+### Hi there, My name is Serena, Nice to meet you!
 
 <br>
 
