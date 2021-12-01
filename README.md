@@ -1,5 +1,5 @@
 ### Hi there, My name is Serena, Nice to meet you!
-I'm a full stack web developer proficient in Javascript, HTML, CSS, and various other technologies
+### I'm a full stack web developer proficient in Javascript, HTML, CSS, and various other technologies
 - pronouns: she/her
 - you can contact me at: serenachandler2019@gmail.com 
 
