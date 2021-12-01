@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerenaChandler&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
