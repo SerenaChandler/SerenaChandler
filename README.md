@@ -3,7 +3,7 @@
 - Pronouns: she/her
 - Contact me at: serenachandler2019@gmail.com 
 - Currently learning Python
-- Fun act: pretty cool
+- Fun fact: pretty cool
 
 <br>
 
