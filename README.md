@@ -2,7 +2,7 @@
 ### I'm a full stack web developer proficient in Javascript, HTML, CSS, and various other technologies
 - Pronouns: she/her
 - Contact me at: serenachandler2019@gmail.com 
-- Currently learning Python
+- Currently employed at Walmart Global Tech
 - Fun fact: pretty cool
 
 <br>
