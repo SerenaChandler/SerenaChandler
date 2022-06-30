@@ -1,5 +1,5 @@
 ### Hi there, my name is Serena, nice to meet you!
-### I'm a full stack web developer proficient in Javascript, HTML, CSS, and various other technologies
+### I'm a full stack web developer proficient in Python, Javascript, HTML, CSS, and various other technologies
 - Pronouns: she/her
 - Contact me at: serenachandler2019@gmail.com 
 - Currently employed at Walmart Global Tech
